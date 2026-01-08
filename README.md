@@ -1,16 +1,18 @@
-## Hi there 👋
+Miguel / README.md
 
-<!--
-**Miguel10Loiola/Miguel10Loiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou o Miguel! 👋
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil GitHub 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Ferramentas e Tecnologias
+- HTML
+- CSS
+- JavaScript (em breve)
+
+⚡ Sobre mim
+- 🏋️ Adoro fazer exercícios e manter uma vida ativa
+- 🎮 Gosto de jogar nas horas vagas
+- 📖 Ler um pouco faz parte da minha rotina
+- 🚀 Estou sempre aprendendo coisas novas
+- 💬 Curto trocar ideias, sugestões e aprender com os outros
+
